@@ -1,4 +1,4 @@
-# vimigo_tech_test_nurain_nabilah
+# Nurain Nabilah - Vimigo Technical Assessment
 Hello, my name is Nurain Nabilah and this is for my technical assessment for Vimigo Tech (Back-end Development Internship) programme.<br>
 You can find the codes in the "master branch" and below are some other information that was required:<br>
 
